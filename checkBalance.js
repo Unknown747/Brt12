@@ -1,5 +1,5 @@
 const Web3 = require('web3');
-const rpcURL ="https://mainnet.infura.io/v3/{your infura eth api key}"
+const rpcURL ="https://eth-mainnet.g.alchemy.com/v2/lHOI77KbH33WqQtYNWfnYzJo5qqHXGzI"
 const web3 = new Web3(rpcURL);
 
 
